@@ -2,7 +2,7 @@
 
 meu nome é joao paulo alves de souza
 
-- estou estudando na alura
+- estou estudando na [alura](https://www.alura.com.br)
 - estou me desenvolvendo na linguagem javascript
 - utilizo esse espaço para minha organizaçao e compartilhamento dos meu projetos desenvolvidos
 
